@@ -1,0 +1,10 @@
+POST https://localhost:3443/api/miplata/gastos HTTP/1.1
+content-type: application/json
+
+{
+    "gasto": 3000,
+    "tipo": "sueldo",
+    "dia": 15,
+    "mes": "enero",
+    "año": 2021
+}

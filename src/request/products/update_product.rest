@@ -1,0 +1,7 @@
+PUT  http://localhost:3000/api/products/60bd373a32c5831c482a5440 HTTP/1.1
+content-type: application/json
+
+{
+    
+    "titulo": "Guerra de Gigantes"
+}

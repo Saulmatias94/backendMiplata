@@ -1,0 +1,8 @@
+POST https://cifuentesoyarzo.cl/api/auth/login HTTP/1.1
+content-type: application/json
+
+{
+    "correo": "s.cifuentes02@ufromail.cl",
+    "contraseña": "1234567"
+
+}

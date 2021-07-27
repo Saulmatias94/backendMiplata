@@ -1,0 +1,10 @@
+POST http://35.169.170.1:81/api/products HTTP/1.1
+content-type: application/json
+
+{
+    "autor": "manuel",
+    "titulo": "Death ",
+    "descripcion": "Death Note es una nueva adaptación ",
+    "categorias": ["Suspenso","Crimen","Fantasía","Drama"]
+
+}

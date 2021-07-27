@@ -1,0 +1,2 @@
+GET https://localhost:3443/api/miplata/ingresos/60f4a4d1aebafa2da82463c3 HTTP/1.1
+content-type: application/json

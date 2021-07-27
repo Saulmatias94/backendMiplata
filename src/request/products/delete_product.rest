@@ -1,0 +1,3 @@
+DELETE  http://35.169.170.1:81/api/products/60f3d771502d93073764171b HTTP/1.1
+content-type: application/json
+

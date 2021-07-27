@@ -1,0 +1,12 @@
+POST https://cifuentesoyarzo.cl/api/auth/register HTTP/1.1
+content-type: application/json
+
+{
+    "nombre": "saul",
+    "apellido": "cifuentes ",
+    "correo": "saulaaaaaa.cifuentes@ufromail.cl",
+    "contraseña": "1234567",
+    "educacion": true,
+    "fecha":"2020/02/12"
+
+}

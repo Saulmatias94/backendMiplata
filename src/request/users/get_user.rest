@@ -1,0 +1,8 @@
+GET https://cifuentesoyarzo.cl/api/users HTTP/1.1
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZjNkNmQ2NTAyZDkzMDczNzY0MTcxYSIsImlhdCI6MTYyNjc0MzY1MSwiZXhwIjoxNjI5MzM1NjUxfQ.jVLaNqh_bWgtiR0PVFTxWEuNYWkNPZMd5bIdmseJwgM
+
+
+
+
+
